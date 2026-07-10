@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "rec_aa6epjr9",
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "role": "superadmin",
+      "createdAt": "2026-07-10T05:45:44.498Z",
+      "updatedAt": "2026-07-10T08:53:09.181Z"
+    },
+    {
+      "id": "rec_qiggsb7y",
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "role": "admin",
+      "createdAt": "2026-07-10T06:13:59.860Z",
+      "updatedAt": "2026-07-10T06:13:59.860Z"
+    },
+    {
+      "id": "rec_hbhvh9r0",
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "role": "admin",
+      "createdAt": "2026-07-10T06:14:29.039Z",
+      "updatedAt": "2026-07-10T06:14:29.039Z"
+    }
+  ],
+  "total": 13,
+  "page": 1,
+  "per_page": 20
+}
